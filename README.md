@@ -16,11 +16,11 @@ The **Pandas Library** is arguably the most important library in the Python Data
 |**Sr.No. 🔢**|**Lessons 📕**| **Exercises 👨‍💻**| 
 |------|--------------------|---------------------|
 |1| Basics, Data Structures - Series, DataFrame, Panel  | [Exercise 1](https://www.kaggle.com/code/felixyeboah/exercise-creating-reading-and-writing) |
-|2| **Summary Functions and Maps, Operations** - Slicing, Merging | [Exercise 2](https://www.kaggle.com/code/mrankitgupta/pandas-2exercise-indexing-selecting-assigning) |
-|3| **Operations** - Joining, Concatenation | [Exercise 3](https://www.kaggle.com/code/mrankitgupta/pandas-3-exercise-summary-functions-and-maps) |
-|4| Changing Index & Column Header, Data Munging |[Exercise 4](https://www.kaggle.com/code/mrankitgupta/pandas-4-exercise-grouping-and-sorting) |
-|5| Grouping & Sorting, Data Types & Missing Values | [Exercise 5](https://www.kaggle.com/code/mrankitgupta/pandas-5-exercise-data-types-and-missing-values) |
-|6| Renaming and Combining |[Exercise 6](https://www.kaggle.com/code/mrankitgupta/pandas-6-exercise-renaming-and-combining) |
+|2| **Summary Functions and Maps, Operations** - Slicing, Merging | [Exercise 2](https://www.kaggle.com/code/felixyeboah/exercise-summary-functions-and-maps) |
+|3| **Operations** - Joining, Concatenation | [Exercise 3](https://www.kaggle.com/code/felixyeboah/exercise-indexing-selecting-assigning) |
+|4| Changing Index & Column Header, Data Munging |[Exercise 4](https://www.kaggle.com/code/felixyeboah/exercise-grouping-and-sorting) |
+|5| Grouping & Sorting, Data Types & Missing Values | [Exercise 5] |
+|6| Renaming and Combining |[Exercise 6]|
 
 
 
