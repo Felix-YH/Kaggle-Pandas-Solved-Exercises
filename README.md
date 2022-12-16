@@ -20,7 +20,7 @@ The **Pandas Library** is arguably the most important library in the Python Data
 |3| **Operations** - Joining, Concatenation | [Exercise 3](https://www.kaggle.com/code/felixyeboah/exercise-indexing-selecting-assigning) |
 |4| Changing Index & Column Header, Data Munging |[Exercise 4](https://www.kaggle.com/code/felixyeboah/exercise-grouping-and-sorting) |
 |5| Grouping & Sorting, Data Types & Missing Values | [Exercise 5](https://www.kaggle.com/code/felixyeboah/exercise-data-types-and-missing-values) |
-|6| Renaming and Combining |[Exercise 6]|
+|6| Renaming and Combining |[Exercise 6](https://www.kaggle.com/code/felixyeboah/exercise-renaming-and-combining)|
 
 
 
